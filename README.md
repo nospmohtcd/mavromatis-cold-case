@@ -1,6 +1,6 @@
 # A Plane-Wave Integral Involving Associated Legendre Functions: Reopening a Cold Case with Modern AI
 
-A previously unresolved problem from my PhD is revisited and explored with Large Language Model (LLM) assistance to (i) revisit the original mathematics and (ii) develop and benchmark a robust numerical scheme. The work is motivated by the elegance found in the original approach, and the authors frustration (at the time) at being unable to utilize it as hoped for.
+A previously unresolved problem from my PhD is revisited and explored with Large Language Model (LLM) assistance to (i) verify and extend the original mathematics and (ii) develop and benchmark a robust numerical scheme. The work is motivated by the elegance found in the original approach, and the authors frustration (at the time) at being unable to utilize it as hoped for.
 
 ---
 
