@@ -26,6 +26,9 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+---
+
 ### Manuscript and Licensing
 
 [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.34027476-blue.svg)](https://doi.org/10.6084/m9.figshare.34027476) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
