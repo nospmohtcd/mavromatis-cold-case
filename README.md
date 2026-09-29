@@ -25,3 +25,19 @@ cd mavromatis-cold-case
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
+### Manuscript and Licensing
+
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.34027476-blue.svg)](https://doi.org/10.6084/m9.figshare.34027476) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+### Citation
+
+```bibtex
+@misc{ThompsonDC26,
+  author       = {Thompson, David C.},
+  title        = {A Plane-Wave Integral Involving Associated Legendre Functions: Reopening a Cold Case with Modern AI},
+  year         = {2026},
+  publisher    = {Figshare},
+  doi          = {10.6084/m9.figshare.34027476},
+  url          = {[https://doi.org/10.6084/m9.figshare.34027476](https://doi.org/10.6084/m9.figshare.34027476)}
+}
