@@ -6,11 +6,9 @@ A previously unresolved problem from my PhD is revisited and explored with Large
 
 ## Repository Structure
 
-- `data/raw/`: Excel spreadsheets (`.xlsx`) containing high-precision benchmark evaluations computed via `mpmath` and numerical quadrature comparisons across angular momentum configurations.
-- `data/processed/`: CSV data files containing formatted truncation convergence tables across continuous parameters $a$ and expansion cutoffs $k_{\max}$.
+- `data/raw/`: Spreadsheet data (`.xlsx` and `.csv`) containing high-precision benchmark evaluations computed via `mpmath` and numerical quadrature comparisons across angular momentum configurations.
+- `data/figures/`: CSV data and Python scripts used to generate image files.
 - `src/mavromatis_cauchy/`: Core package containing series formulations using `mpmath` and incorporating analytical truncation bounds $k_{\max}(a) = \lceil a + 5a^{1/3} + 15 \rceil$.
-- `scripts/`: Reproduction scripts generating publication figures and LaTeX data tables.
-- `figures/`: Vector and high-resolution raster output figures used in the manuscript.
 
 ---
 
